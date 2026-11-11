@@ -1,54 +1,62 @@
+
 /* Education */
-#education{
+
+#education {
     margin-top: 30px;
 }
 
-.edutech{
+.edutech {
     /* padding-left: 20px; */
     position: relative;
     margin-top: 20px;
 }
-.year{
+
+.year {
     font-size: 0.9rem;
     color: #a0a0a0;
     margin-bottom: 5px;
 }
-.degree{
+
+.degree {
     color: #e0e0e0;
     font-size: 1.2rem;
     font-weight: 500;
     margin-bottom: 5px;
 }
-.college{
+
+.college {
     font-style: italic;
     color: #a0a0a0;
     margin-bottom: 10px;
 }
 
-.workDone{
+.workDone {
     color: #a0a0a0;
 }
-.education1,.education2{
+
+.education1,
+.education2 {
     margin-bottom: 30px;
     padding-left: 25px;
     position: relative;
 }
 
-.gola{
+.gola {
     height: 15px;
     width: 15px;
     border-radius: 50px;
     border: 3px solid yellow;
     position: absolute;
-    top: 4px ;
-    left: 0px;
+    top: 4px;
+    left: 0;
     z-index: 5;
 }
-.liner{
+
+.liner {
     position: absolute;
     width: 2px;
-    top: 0px;
+    top: 0;
     left: 5px;
-    bottom: 0px;
+    bottom: 0;
     border: 2px solid #3a3a3a;
 }

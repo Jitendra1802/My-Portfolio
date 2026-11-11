@@ -1,20 +1,24 @@
+
 /* About me */
-.heading{
+
+.heading {
     color: #e0e0e0;
     font-size: 2rem;
     margin-bottom: 15px;
 }
-.line{
+
+.line {
     width: 60px;
     height: 5px;
     background-color: yellow;
     margin-bottom: 15px;
 }
-.content{
+
+.content {
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
 }
-#about{
+
+#about {
     margin-bottom: 40px;
 }
-
